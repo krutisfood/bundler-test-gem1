@@ -2,7 +2,7 @@ require 'bundler-test-gem1/does-things'
 require 'utilities'
 
 module BundlerTestGem1
-  VERSION = '0.0.1'
+  VERSION = '0.0.2'
 
   class BitCoin
     def self.mine
