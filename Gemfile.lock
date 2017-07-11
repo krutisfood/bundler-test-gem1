@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    bundler-test-gem1 (0.0.1)
+    bundler-test-gem1 (0.0.2)
       git (~> 1.2)
 
 GEM
